@@ -2,6 +2,7 @@
 📍 City, State | 📞 (123) 456-7890 | 📧 john.doe@email.com | 🌐 linkedin.com/in/johndoe
 
 ---
+![photo](assets/photo.png)
 
 ## Professional Summary
 Results-driven professional with strong experience in [your field/industry]. Skilled in [top skills or specialties], with a proven ability to [key achievement]. Adept at working in fast-paced environments, solving problems, and delivering measurable results.
